@@ -1,7 +1,7 @@
 NGUI ScrollView 만들때 
 
 ScrollView (세로 스크롤)
-ㄴScrollView (가로 스크롤)
+하위에 ScrollView (가로 스크롤)
 
 이런 식으로 만들었을 경우.
 
